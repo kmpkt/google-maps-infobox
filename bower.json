@@ -1,0 +1,11 @@
+{
+  "name": "google-maps-infobox",
+  "version": "1.0",
+  "authors": [
+    "Fabian Aumiller <mail@kmpkt.com>"
+  ],
+  "description": "An InfoBox behaves like a google.maps.InfoWindow, but it supports several additional properties for advanced styling. An InfoBox can also be used as a map label.",
+  "main": "infobox.js",
+  "license": "Apache 2.0",
+  "private": true
+}
